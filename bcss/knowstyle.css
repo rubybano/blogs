@@ -1,0 +1,19 @@
+.abcd{
+	background-image: url("../bimg/f.jpeg");
+	 top:80px;
+  min-height: 90vh;
+  background-size: cover;
+  background-position: center;
+  text-align:center;
+  overflow: hidden;
+
+}
+.text{
+	margin-top: 5%;
+}
+.text p{
+	margin-top: 4%;
+}
+.row{
+	margin-top: 5%;
+}

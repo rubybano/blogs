@@ -257,7 +257,7 @@ width: 600px;
 .hcc{
 word-spacing: 10px;
 line-height: 40px;
-font-size: 25px;
+font-size: 18px;
 margin-top: -20px;
 margin-left: 25px;
 margin-right: 0px;
@@ -265,9 +265,22 @@ font-family: 'Baloo 2', cursive;
 width: 600px;
 }
 .fcont{
+  margin-top: 3%;
 margin-left: 25px;
 margin-right: 50px;
 margin-bottom: 60px;
 border-bottom: 1px solid #A9A9A9;
 
+}.fcont img{
+  margin-top:4%;
+}
+.read-more-btn{
+  color:blue;
+  font-size:20px;
+}
+.read-more-btn:hover{
+  color:black;
+}
+.media-body h4{
+  color:black;
 }
